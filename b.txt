@@ -1,0 +1,45 @@
+﻿// 协作修改、合并新的文本
+1.在新的文件中点击右键  选克隆Clone Existing Repository 
+2.输入本地克隆资源  在输入本地存储文件  如C://cool/aaa  aaa为空的存储文件名
+3.修改过后push回去
+4.主人要在clone一遍  在commit保存  在push回去  
+5.修改者在remote选第一个（更新）,在选merge选第一个,在点击merge
+6.ok
+
+
+服务器端语言和客户端语言的区别
+1.位置不同  服务器端语言在后台   客户端语言在前端
+2.操作不同  
+3.传递结果不同  服务器端传递是静态   客户端而有兼容问题
+
+
+二维数组  [[1],[2]]
+
+a()
+function a(){}   // 执行a的函数
+
+
+b()
+var b=function(){}  // 先声明b 在执行b  报错后再赋值匿名函数function
+
+
+this永远指向的是最后调用它的对象，也就是看它执行的时候是谁调用的
+
+改变this指向
+apply(a)  两个参数
+
+call(a,'1','123') 三个参数   继承
+
+
+
+
+
+创建package.json ---->设置一个{"name":"XX"} ----> npm i jquery --save
+----->  如果克隆下来html和package.json ----> npm i  --->touch .gitignore(忽略)
+
+
+
+dist文件夹中装压缩后的项目
+
+npm i express-generator -g  脚手架
+

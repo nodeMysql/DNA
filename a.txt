@@ -1,0 +1,17 @@
+GIT   版本管理
+edit  保存
+option  选项
+creste  创建
+repository  仓库
+commit  提交
+browse  浏览
+stage   舞台
+save    保存
+
+source  资源
+Directory  目录
+
+github.com
+
+
+
